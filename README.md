@@ -41,7 +41,7 @@ python qpassgen_gui.py
 
 ```
 
-License
+
 MIT License
 
 Contact
