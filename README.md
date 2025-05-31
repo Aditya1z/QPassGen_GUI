@@ -38,3 +38,11 @@ To build from source:
 git clone https://github.com/Aditya1z/QPassGen_GUI.git
 cd QPassGen
 python qpassgen_gui.py
+
+```
+
+License
+MIT License
+
+Contact
+For questions or contributions, please open an issue or contact me.
