@@ -37,6 +37,7 @@ To build from source:
 ```bash
 git clone https://github.com/Aditya1z/QPassGen_GUI.git
 cd QPassGen
+pip install -r requirements.txt
 python qpassgen_gui.py
 
 ```
