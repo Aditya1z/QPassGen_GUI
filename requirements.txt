@@ -1,0 +1,5 @@
+qiskit
+qiskit-aer
+matplotlib
+pyperclip
+numpy
