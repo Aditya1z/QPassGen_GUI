@@ -1,17 +1,21 @@
+# QPassGen
+
 QPassGen is a quantum-secure password generator that uses quantum randomness from Qiskit to create strong, unpredictable passwords.
 
 ---
 
-![WhatsApp Image 2025-06-06 at 05 33 29_d5733c19](https://github.com/user-attachments/assets/89ed3fe8-1ebc-4437-a445-4a717275be0d)
-
+![5WgJT6nDxA](https://github.com/user-attachments/assets/77748ef4-27d8-475f-8869-a3feff70e57e)
 
 
 ## Features
 
 - Generates truly random passwords using quantum entropy.
+- Estimates entropy and crack time
 - Simple Windows executable for easy use.
 - No configuration needed — generates secure passwords with default settings.
-
+- Lightweight GUI built with Tkinter
+- Optional graph of quantum state distribution
+  
 ---
 
 ## Download
@@ -29,10 +33,20 @@ The executable (`QPassGen.exe`) is available for download via Google Drive:
 
 ---
 
-## Source Code
+## Requirements
 
-The full source code is available here on GitHub for review and building:  
-https://github.com/Aditya1z/QPassGen_GUI
+Make sure you have the following installed:
+
+- Python 3.8+
+- [Qiskit](https://qiskit.org/)
+- Qiskit-Aer
+- numpy
+- matplotlib
+- pyperclip
+
+---
+
+## Source Code
 
 To build from source:
 
@@ -44,8 +58,14 @@ python qpassgen_gui.py
 
 ```
 
+---
+
+## Author
+
+Made with Python and Qiskit by Aditya Raj
+
+## License
 
 MIT License
 
-Contact
-For questions or contributions, please open an issue or contact me.
+---
