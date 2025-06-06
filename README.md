@@ -20,8 +20,13 @@ QPassGen is a quantum-secure password generator that uses quantum randomness fro
 
 ## Download
 
-The executable (`QPassGen.exe`) is available for download via Google Drive:  
-[Download QPassGen.exe](https://drive.google.com/file/d/1G21Yyl5quwEo_B2onT59VsMPrkqfiHZa/view)
+> **Windows Executable Available**
+
+Download the latest release:
+
+[Download QPassGen.exe](https://github.com/Aditya1z/QPassGen_GUI/releases/download/v1.0.0/QPassGen.exe)
+
+_No installation required. Just download and run._
 
 ---
 
